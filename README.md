@@ -46,8 +46,9 @@ On the blog posts page, you can view all your entries and toggle between light a
 Click the "Back" button to return to the form for adding more entries.
 
 #DEMO
-Here is the link to website -> [
+Here is the link to website : [
 ](https://drive.google.com/file/d/1akVp1xXv13IPrb2vIyRkk2cw4nyG7BIe/view?usp=sharing)
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
